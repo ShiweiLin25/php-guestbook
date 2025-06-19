@@ -4,7 +4,8 @@
 
 ## 專案畫面預覽
 
-> ![畫面截圖](screenshot.png)
+![畫面截圖](screenshot.png)
+![畫面截圖](screenshot.png)
 
 ---
 
@@ -33,17 +34,22 @@
 ---
 
 ## 資料夾結構
+
+```
 guestbook/
 │
 ├── emoji/ # 表情圖示資料夾
 │ ├── smile.png
 │ ├── cry.png
-│ └── ...
+│ ├── angry.png
+│ ├── wow.png
+│ └── laugh.png
 │
 ├── index.php # 主畫面與留言表單
 ├── save.php # 負責儲存留言資料
+├── screenshot.png # 留言板畫面截圖（用於 README 顯示）
 ├── README.md # 專案說明文件
-└── (資料庫.sql) # 可選：資料表建立語法
+```
 
 ---
 
