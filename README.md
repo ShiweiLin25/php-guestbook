@@ -5,7 +5,6 @@
 ## 專案畫面預覽
 
 ![畫面截圖](screenshot.png)
-![畫面截圖](screenshot.png)
 
 ---
 
